@@ -376,6 +376,7 @@ export interface ApiRestaurantRestaurant extends Schema.CollectionType {
   attributes: {
     name: Attribute.String & Attribute.Required;
     picture: Attribute.Media<'images'>;
+    Places: Attribute.Integer;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
