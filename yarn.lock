@@ -2090,12 +2090,12 @@
     "@strapi/utils" "4.25.11"
     sendmail "^1.6.1"
 
-"@strapi/provider-upload-cloudinary@^5.19.0":
-  version "5.19.0"
-  resolved "https://registry.yarnpkg.com/@strapi/provider-upload-cloudinary/-/provider-upload-cloudinary-5.19.0.tgz#1e2390a15fa881ba2d1943c6d7f31c6c08ff2f8a"
-  integrity sha512-xLHJHrnH08RJDIaBarpgfLzE08h9ygkROUqLbHMHfj7ehGmr4PwWXlR5JgPpVafjeedhZqlifZNy/muRPTn3sw==
+"@strapi/provider-upload-cloudinary@^5.20.0":
+  version "5.20.0"
+  resolved "https://registry.yarnpkg.com/@strapi/provider-upload-cloudinary/-/provider-upload-cloudinary-5.20.0.tgz#b9b84688f376b4e12b2ce2a471ee91a1e786259c"
+  integrity sha512-r/OS44ZyhdFBhl6iksEjetSK5WFR4fHT+Om1vdK5hSnix4v2lvUcOLNReemwt/JEhZYweKoMhfrQepChZWUb3Q==
   dependencies:
-    "@strapi/utils" "5.19.0"
+    "@strapi/utils" "5.20.0"
     cloudinary "^1.41.0"
     into-stream "^5.1.0"
 
@@ -2249,10 +2249,10 @@
     p-map "4.0.0"
     yup "0.32.9"
 
-"@strapi/utils@5.19.0":
-  version "5.19.0"
-  resolved "https://registry.yarnpkg.com/@strapi/utils/-/utils-5.19.0.tgz#ead1593b4d6e713d76656dfa3cb09d98aec99693"
-  integrity sha512-+ehu0FcsxAALBv4cVs0WP18PRAfbRDwCERsEh1sqqDJBgc8XEiwP8pVq6QE/BPRo6T0Xb8jkXLSZuHmyeMM3Qg==
+"@strapi/utils@5.20.0":
+  version "5.20.0"
+  resolved "https://registry.yarnpkg.com/@strapi/utils/-/utils-5.20.0.tgz#efe78790b4c964256ca5515d03387f9d04667200"
+  integrity sha512-bSxAULsm/XPLs+9JTiNGL4Ia7HSRoU///8X3WmtuHtyr1bNtA723wvI5osbUdtHvpWZX7EUkG64/k4Bs99KqGw==
   dependencies:
     "@sindresorhus/slugify" "1.1.0"
     date-fns "2.30.0"
@@ -2263,7 +2263,7 @@
     p-map "4.0.0"
     preferred-pm "3.1.2"
     yup "0.32.9"
-    zod "3.24.2"
+    zod "3.25.67"
 
 "@swc/core-darwin-arm64@1.13.2":
   version "1.13.2"
@@ -10413,7 +10413,7 @@ yup@0.32.9:
     property-expr "^2.0.4"
     toposort "^2.0.2"
 
-zod@3.24.2:
-  version "3.24.2"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-3.24.2.tgz#8efa74126287c675e92f46871cfc8d15c34372b3"
-  integrity sha512-lY7CDW43ECgW9u1TcT3IoXHflywfVqDYze4waEz812jR/bZ8FHDsl7pFQoSZTz5N+2NqRXs8GBwnAwo3ZNxqhQ==
+zod@3.25.67:
+  version "3.25.67"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.25.67.tgz#62987e4078e2ab0f63b491ef0c4f33df24236da8"
+  integrity sha512-idA2YXwpCdqUSKRCACDE6ItZD9TZzy3OZMtpfLoh6oPR47lipysRrJfjzMqFxQ3uJuUPyUeWe1r9vLH33xO/Qw==
